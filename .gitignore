@@ -1,5 +1,5 @@
 # Logs
-*.zip
+# *.zip
 logs
 *.log
 npm-debug.log*
